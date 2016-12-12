@@ -10,6 +10,11 @@ namespace GitHubCSharpTests
     {
         static void Main(string[] args)
         {
+            var x = 10;
+            Console.WriteLine("Hello World");
+            
+
+            Console.ReadKey();
         }
     }
 }
